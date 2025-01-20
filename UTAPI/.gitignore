@@ -1,0 +1,111 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.vs/
+.vscode/launch.json
+.vscode/settings.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]pp[Bb]undles/
+[Aa]rtifacts/
+bin/
+obj/
+out/
+
+# Logs
+*.log
+*.tlog
+*.log/
+
+# NPM Packages
+node_modules/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Files built by Visual Studio
+*.ipch
+*.obj
+*.pch
+*.idb
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.sbr
+*.opendb
+*.tlog
+*.vspscc
+*.vspxproj
+*.jsproj
+*.cache
+*.pdb
+*.appxsym
+
+# Compiled files
+*.dll
+*.exe
+*.app
+*.ipa
+*.dSYM/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.swf
+*.scpt
+*.dmg
+*.iso
+*.ipa
+*.xap
+*.lib
+*.a
+*.out
+*.hmap
+
+# Others
+*.lock.json
+project.lock.json
+project.fragment.lock.json
+artifacts/
+sqlite-db.sqlite
+.lock
+.vscode
+coverage/
+node_modules/
+package-lock.json
+dist/
+.dump
+
+# Migrations
+migrations/
